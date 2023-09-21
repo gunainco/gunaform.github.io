@@ -14,8 +14,8 @@
     position: relative;
     background: inherit;
     overflow: hidden;
-    width: 25%;
-    height: 80%;
+    width:350px;
+    height: px;
     border-radius: 16px;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3), 
                 0 6px 20px rgba(0, 0, 0, 0.15);
@@ -24,6 +24,7 @@
     padding-right:50px;
     padding-top:35px;
     padding: 20px;
+    text-align: justify;
 }
 .glass:before {
     content: '';
